@@ -1,0 +1,34 @@
+.gameText2{
+    margin: auto;
+    width: 50%;
+    text-align:center;
+}
+.big-container{
+    min-height:100%;
+}
+.jumbotron.bg-primary.text-center{
+    background-color: #48aef6;
+}
+.hangmanContainer{
+    padding:20px;
+    height:640px;
+    margin: 0 auto;
+    background-image:    url('images/beach.jpg');
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    border:3px solid blue;
+}
+.container-fluid{
+    min-height:100%;
+    margin:0 auto;
+}
+.currently-guessing{
+    margin: auto;
+    width: 50%;
+    text-align:center;
+}
+body {
+    min-height:100%;
+       background-color: #48aef6;
+}
