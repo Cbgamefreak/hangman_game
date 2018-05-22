@@ -2,12 +2,15 @@
     margin: auto;
     width: 50%;
     text-align:center;
+
+
 }
 .big-container{
     min-height:100%;
 }
 .jumbotron.bg-primary.text-center{
     background-color: #48aef6;
+    font-family: 'Indie Flower';
 }
 .hangmanContainer{
     padding:20px;
@@ -18,6 +21,8 @@
     background-repeat:   no-repeat;
     background-position: center center; 
     border:3px solid blue;
+    font-size: 20px;
+    font-family: 'Indie Flower';
 }
 .container-fluid{
     min-height:100%;
@@ -27,6 +32,7 @@
     margin: auto;
     width: 50%;
     text-align:center;
+
 }
 body {
     min-height:100%;
